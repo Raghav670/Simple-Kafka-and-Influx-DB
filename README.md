@@ -62,7 +62,7 @@ http://localhost:8086
 
 Write a Python script to consume messages from Kafka and write them to InfluxDB.
 
-REFER: [Source_file](https://github.com/Raghav670/Simple-Kafka-and-Influx-DB/blob/adb3cffd93292729c3b6ab644c222e8fe9b8ce31/Script.py)
+REFER: [Script.py](https://github.com/Raghav670/Simple-Kafka-and-Influx-DB/blob/adb3cffd93292729c3b6ab644c222e8fe9b8ce31/Script.py)
 
 
 
