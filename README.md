@@ -1,4 +1,4 @@
-# Simple-Kafka-and-Influx-DB
+# Simple standalone Kafka and Influx DB
 
 ## **DIAGRAM**
 ![Connecting kafka and influxdb ](https://github.com/Raghav670/Simple-Kafka-and-Influx-DB/assets/74827764/3258042b-5daf-4c57-9bac-bf09e24bc954)
