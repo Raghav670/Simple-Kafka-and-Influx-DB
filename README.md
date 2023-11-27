@@ -70,4 +70,3 @@ REFER: [Script.py](https://github.com/Raghav670/Simple-Kafka-and-Influx-DB/blob/
 
 
 
-
