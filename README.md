@@ -34,7 +34,7 @@ wget https://downloads.apache.org/kafka/<LATEST-VERSION>/<FILE>.tgz
 Install and configure InfluxDB by downloading the package and installing it using dpkg.
 
 ```rb
-curl -O https://dl.influxdata.com/influxdb/releases/influxdb2_2.7.4-1_amd64.deb
+curl -O https://dl.influxdata.com/influxdb/releases/influxdb2<LATEST-VERSION>_amd64.deb
 
 sudo dpkg -i influxdb2_2.7.4-1_amd64.deb
 ```
